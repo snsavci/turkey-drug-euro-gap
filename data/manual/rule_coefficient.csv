@@ -1,0 +1,4 @@
+effective_from,coefficient,legal_basis,source_url,confidence,note
+2016-02-22,0.70,"Decree 2015/7752 Article 2(2) (text not read)",https://www.resmigazete.gov.tr/eskiler/2015/07/20150710-3.htm,B,"first year the coefficient is verified, by reproducing the 2016 and 2017 values from the previous year's mean selling rate; the coefficient may apply earlier but the 2015 values do not fit it"
+2019-02-14,0.60,"Presidential Decree 752 Article 1 (Resmî Gazete 30686, 14 Feb 2019)",https://www.resmigazete.gov.tr/eskiler/2019/02/20190214-1.pdf,A,"decree text read; changes '%70' to '%60' in Article 2(2); in force on publication; reproduces the 2020 and Feb 2022 values"
+2026-04-01,0.65,"Presidential Decree 11031 Article 2(3) and Provisional Article 3 (Resmî Gazete 33194, 12 Mar 2026)",https://www.resmigazete.gov.tr/eskiler/2026/03/20260312-2.pdf,A,"decree text read; Provisional Article 1 keeps 60 percent until 1 Apr 2026"
